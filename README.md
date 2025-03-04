@@ -1,5 +1,5 @@
 <p>This is  my project</p>
-<bold>My project is finished</bold>
+<b>My project is finished</b>
 <ul>
   <li>hi</li>
   <li>hello</li>
